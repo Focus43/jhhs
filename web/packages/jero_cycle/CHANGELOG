@@ -1,0 +1,23 @@
+1.0.0 added !important to cycle-link-hidden class
+
+0.9.7 Use inline style attributes rather than <style> in head.
+
+0.9.6 Maximum z-index of the slides can now be set. Plugin default is 100
+      which doesn't play real nice with the Elemental theme's responsive nav.
+      Specifying a value of 80 works much better.
+
+0.9.5 Removed button option since these will now hide if the
+      button text is left blank or there is no link. Added
+      option to fadein captions. Removed more deprecated code.
+
+0.9.4 Remove absolute position of buttons on edit
+      Drop any images that don't exist from getting to the view.
+
+0.9.3 File handling pushed into controller, simplifying view.
+      Replace deprecated functions
+
+0.9.2 Fixed fatal error adding block to page
+
+0.9.1 Button CSS classes may be edited but will default to "btn btn-default"
+
+0.9	  Submitted to marketplace

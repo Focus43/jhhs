@@ -1,0 +1,8 @@
+# this is the git ingnore file that needs to be created for all new installs. 
+# The below defines all the directories that should be ignored.
+
+# ingnore the files directory
+/web/application/files/*
+
+# ingnore the sitemap.xml file
+/web/sitemap.xml

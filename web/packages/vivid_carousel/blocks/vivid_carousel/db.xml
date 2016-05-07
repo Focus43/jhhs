@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+    <table name="btVividCarousel">
+        <field name="bID" type="I">
+            <key />
+            <unsigned />
+        </field>
+        <field name="itemsmobile" type="I"><unsigned/></field>
+        <field name="itemstablet" type="I"><unsigned/></field>
+        <field name="itemsdesktop" type="I"><unsigned/></field>
+        <field name="thumbwidth" type="I"><unsigned/></field>
+        <field name="thumbheight" type="I"><unsigned/></field>
+        <field name="carouselTitle" type="C" size="255"></field>
+    </table>
+    <table name="btVividCarouselItem">
+        <field name="id" type="I"><unsigned/><key/><autoincrement/></field>
+        <field name="bID" type="I"><unsigned/></field>
+        <field name="fID" type="I"><unsigned/><default value="0" /></field>
+        <field name="title" type="C" size="255"></field>
+        <field name="carcontent" type="X2"></field>
+        <field name="pageID" type="I"><unsigned /><default value="0" /></field>
+        <field name="btntext" type="C" size="255"></field>
+        <field name="sort" type="I"></field>
+    </table>
+</schema>

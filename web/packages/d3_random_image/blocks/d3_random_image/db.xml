@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<schema version="0.3">
+	<table name="btD3RandomImage">
+		<field name="bID" type="I"><KEY /><UNSIGNED /></field>
+		<field name="fsID" type="I"></field>
+		<field name="max_width" type="I"></field>
+		<field name="max_height" type="I"></field>
+		<field name="do_crop" type="L"><DEFAULT value="1" /></field>
+	</table>
+</schema>

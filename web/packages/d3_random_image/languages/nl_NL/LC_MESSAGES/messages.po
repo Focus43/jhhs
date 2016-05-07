@@ -1,0 +1,61 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: d3_random_image 0.9.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-10-02 10:19+0000\n"
+"PO-Revision-Date: 2015-10-02 12:21+0100\n"
+"Last-Translator: akodde <nonexisting@domain.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: nl_NL\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Basepath: ../../../../..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Language: nl_NL\n"
+"X-Generator: Poedit 1.5.5\n"
+
+#: packages/d3_random_image/controller.php:18
+msgid "Random Image"
+msgstr "Random afbeelding"
+
+#: packages/d3_random_image/controller.php:23
+msgid "Display a random image from a file set"
+msgstr "Toont een willekeurige afbeelding uit een bestandsverzameling"
+
+#: packages/d3_random_image/blocks/d3_random_image/controller.php:67
+msgid "No file set has been selected"
+msgstr "Er is geen bestandsverzameling geselecteerd"
+
+#: packages/d3_random_image/blocks/d3_random_image/controller.php:72
+msgid "File set doesn't exist (anymore)"
+msgstr "Bestandsverzameling bestaat niet (meer)"
+
+#: packages/d3_random_image/blocks/d3_random_image/controller.php:82
+msgid "File set is empty"
+msgstr "Bestandsverzameling is leeg"
+
+#: packages/d3_random_image/blocks/d3_random_image/controller.php:88
+msgid "File version not found"
+msgstr "Bestandsversie niet gevonden"
+
+#: packages/d3_random_image/blocks/d3_random_image/controller.php:118
+msgid "None"
+msgstr "Geen"
+
+#: packages/d3_random_image/blocks/d3_random_image/edit.php:12
+msgid "Choose a file set"
+msgstr "Kies een bestandsverzameling"
+
+#: packages/d3_random_image/blocks/d3_random_image/edit.php:27
+msgid "Max width"
+msgstr "Maximale breedte"
+
+#: packages/d3_random_image/blocks/d3_random_image/edit.php:39
+msgid "Max height"
+msgstr "Maximale hoogte"
+
+#: packages/d3_random_image/blocks/d3_random_image/edit.php:56
+msgid "Force image dimensions (crop)"
+msgstr "Forceer afbeeldingsdimensies (crop)"
